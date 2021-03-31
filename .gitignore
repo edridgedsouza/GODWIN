@@ -137,6 +137,8 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+config.json
+# May change these later
 *.db
 *.db-journal
-config.json
+*.mp4

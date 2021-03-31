@@ -10,6 +10,8 @@
 
 Here are some more visualizations from my analysis. Error bars and shaded intervals represent 95% confidence intervals. For the kernel density plots, the shaded intervals represent the 25th to 75th percentile data.
 
+- [Animated version](https://gfycat.com/raggedantiquegrunion) (no confidence intervals)
+
 - [Black and white version](https://i.imgur.com/NZW2S6w.png) of the survival curve
 
 - [Percentage passing, binned](https://i.imgur.com/VXbQWZU.png) by number of comments in thread.
