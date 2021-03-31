@@ -139,6 +139,4 @@ cython_debug/
 
 config.json
 # May change these later
-*.db
-*.db-journal
 *.mp4
